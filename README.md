@@ -1,5 +1,5 @@
 # demoMessageApp
-"An Android app that simulates fake messages, built for learning purposes."
+"An Android app that simulates messages, built for learning purposes."
 
 
 >  📌 **Disclaimer**: This project is intended for educational purposes only. It does not promote or support any malicious usage.
