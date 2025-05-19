@@ -1,15 +1,63 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# Local properties
 local.properties
+
+# IDE - Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Android Studio specific
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Log files
+*.log
+
+# Mac OS
+.DS_Store
+
+# Android generated
+captures/
+output.json
+*.apk
+*.ap_
+
+# C/C++ build
+.externalNativeBuild/
+.cxx/
+
+# Keystore (private keys for signing app)
+*.jks
+*.keystore
+
+# Google services config
+google-services.json
+
+# Profiling
+*.hprof
+
+# NDK
+obj/
+
+# Unit test coverage
+*.ec
+*.exec
+
+# Kotlin specific
+*.kotlin_module
+
+# Cache
+.cache/
