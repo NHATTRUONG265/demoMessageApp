@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">demoMessage</string>
+    <string name="confrim_password">Confrim Password</string>
+    <string name="crate_new_account">Crate New Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="sign_up" />
+    <string name="confirm_password" />
+</resources>
